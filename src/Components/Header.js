@@ -9,8 +9,8 @@ function Header() {
 
     return (
         <div>
-            <div>Hello 123</div>
-            <p>Happy Birthday</p>
+            
+            <div>Happy Birthday, Tabriz!</div>
         </div>
     )
 }

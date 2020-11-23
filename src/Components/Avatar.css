@@ -1,0 +1,19 @@
+.round {
+    min-width: 200px;
+    min-height: 200px;
+    border-radius: 50%;
+    border-color: rgb(69, 83, 121);
+    border-width: 3px;
+    border-style: solid;
+    background-color: #fff;
+    overflow: hidden;
+    position: relative;
+}
+img {
+    object-fit: contain;
+    position: absolute;
+    left: -90%;
+    right: -100%;
+    top: -10%;
+    bottom: -110%;
+}
