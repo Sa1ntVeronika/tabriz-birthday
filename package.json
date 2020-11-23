@@ -23,6 +23,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://sa1ntveronika.github.io/tabriz-birthday/",
   "browserslist": {
     "production": [
       ">0.2%",
