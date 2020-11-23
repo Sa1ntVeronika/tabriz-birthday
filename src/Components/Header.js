@@ -9,7 +9,7 @@ function Header() {
 
     return (
         <div>
-            <div>Hello</div>
+            <div>Hello 123</div>
             <p>Happy Birthday</p>
         </div>
     )
