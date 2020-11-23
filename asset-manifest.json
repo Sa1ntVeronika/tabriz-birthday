@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tabriz-birthday/static/css/main.962372e1.chunk.css",
+    "main.js": "/tabriz-birthday/static/js/main.846370f0.chunk.js",
+    "main.js.map": "/tabriz-birthday/static/js/main.846370f0.chunk.js.map",
+    "runtime-main.js": "/tabriz-birthday/static/js/runtime-main.248133a9.js",
+    "runtime-main.js.map": "/tabriz-birthday/static/js/runtime-main.248133a9.js.map",
+    "static/js/2.4a3dc0f2.chunk.js": "/tabriz-birthday/static/js/2.4a3dc0f2.chunk.js",
+    "static/js/2.4a3dc0f2.chunk.js.map": "/tabriz-birthday/static/js/2.4a3dc0f2.chunk.js.map",
+    "static/js/3.ca149f48.chunk.js": "/tabriz-birthday/static/js/3.ca149f48.chunk.js",
+    "static/js/3.ca149f48.chunk.js.map": "/tabriz-birthday/static/js/3.ca149f48.chunk.js.map",
+    "index.html": "/tabriz-birthday/index.html",
+    "static/css/main.962372e1.chunk.css.map": "/tabriz-birthday/static/css/main.962372e1.chunk.css.map",
+    "static/js/2.4a3dc0f2.chunk.js.LICENSE.txt": "/tabriz-birthday/static/js/2.4a3dc0f2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tabriz-birthday/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.248133a9.js",
+    "static/js/2.4a3dc0f2.chunk.js",
+    "static/css/main.962372e1.chunk.css",
+    "static/js/main.846370f0.chunk.js"
+  ]
+}
